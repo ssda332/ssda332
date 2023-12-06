@@ -1,6 +1,12 @@
 ### KIM YOUNG JIN 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssda332)](https://solved.ac/ssda332/)
 
-![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=WHITE)
+
+## Skills
+
+![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=White)
+![SPRING](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 <!--
 **ssda332/ssda332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
