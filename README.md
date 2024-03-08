@@ -8,6 +8,9 @@
 ![SPRING](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
+## Blog
+[[기술 블로그]](https://ssda332.github.io)
+
 <!--
 **ssda332/ssda332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
