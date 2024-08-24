@@ -1,6 +1,8 @@
 ### KIM YOUNG JIN 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssda332)](https://solved.ac/ssda332/)
-
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
 
 ## Skills
 
