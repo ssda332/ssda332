@@ -1,9 +1,10 @@
 ### KIM YOUNG JIN 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssda332)](https://solved.ac/ssda332/)
+<!--
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
 </a>
-
+-->
 ## Skills
 
 ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=White)
@@ -27,8 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## 항해 플러스
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
 </a>
+-->
